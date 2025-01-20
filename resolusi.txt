@@ -1,0 +1,9 @@
+ini adalah resolusi xi pplg 3 untuk belajar git
+
+-konsisten belajar git dan mengerjakan tugas git dan github 
+-praktik Github 
+-praktik Git 
+-Belajar basis data
+-Api
+-Dokumentasi
+-project video streaming 
